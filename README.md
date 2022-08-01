@@ -3,7 +3,7 @@
 <a href="http://codeforces.com/profile/saruar_jahan" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="http://codeforces.com/profile/saruar_jahan" width="20px"  /></a>
 
 
-<a href="https://www.stopstalk.com/user/profile/cypher" target="blank"><img align="right" src="./assets/stopstalk_logo.png" alt="https://www.stopstalk.com/user/profile/cypher" width="20px"  /></a>
+<a href="https://www.stopstalk.com/user/profile/cypher" target="blank"><img src="./assets/stopstalk_logo.png" alt="https://www.stopstalk.com/user/profile/cypher" width="50px"  /></a>
 
 <h1 align="center">Hi there 👋</h1>
 <br>
